@@ -1,0 +1,2 @@
+logic of feature3
+feature3's content
